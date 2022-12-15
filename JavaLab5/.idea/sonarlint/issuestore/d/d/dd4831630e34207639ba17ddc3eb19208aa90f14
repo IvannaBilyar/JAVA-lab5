@@ -1,0 +1,11 @@
+
+i
+java:S2095'"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµþÿÿÿÿ8’ÑÃ¯Ñ0
+i
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµþÿÿÿÿ8”ÑÃ¯Ñ0
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¸žªî8•ÑÃ¯Ñ0
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ì´Ù–úÿÿÿÿ8•ÑÃ¯Ñ0
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×‹¼üúÿÿÿÿ8•ÑÃ¯Ñ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ñ·¤¬8£ÑÃ¯Ñ0
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ñ·¤¬8¦ÑÃ¯Ñ0
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(ñ·¤¬8¶ÑÃ¯Ñ0

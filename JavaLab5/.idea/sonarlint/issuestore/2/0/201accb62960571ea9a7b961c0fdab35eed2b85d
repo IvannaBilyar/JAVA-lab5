@@ -1,0 +1,14 @@
+
+v
+java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(È»®é8‘˜Ö¯Ñ0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–Ä¸œûÿÿÿÿ
+X
+java:S1854>"6Remove this useless assignment to local variable "s2".(­ÞÌáÿÿÿÿÿ8ŠžÙ¯Ñ0
+S
+java:S18549"6Remove this useless assignment to local variable "s1".(Å¬þ·8ŠžÙ¯Ñ0
+L
+java:S1197"*Move the array designators [] to the type.(™€æùÿÿÿÿ8¿˜Ö¯Ñ0
+D
+java:S14819"'Remove this unused "s1" local variable.(Å¬þ·8—žÙ¯Ñ0
+I
+java:S1481>"'Remove this unused "s2" local variable.(­ÞÌáÿÿÿÿÿ8˜žÙ¯Ñ0
